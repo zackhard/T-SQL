@@ -1,9 +1,8 @@
 # T_SQL
-Microsoft: DAT201x - Querying with Transact-SQL
-
+Microsoft : DAT201x - Querying with Transact-SQL
  
   
-	Course  Outline
+# Course Outline
 
 Introduction to Transact-SQL 
 
